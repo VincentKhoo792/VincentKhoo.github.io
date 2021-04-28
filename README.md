@@ -1,2 +1,0 @@
-# vince.github
-School projects
