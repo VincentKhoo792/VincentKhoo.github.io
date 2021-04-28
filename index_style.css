@@ -103,7 +103,6 @@ p {
     font-size:24px;
   }
 }
-.btn-container {
-  padding:70px;
-  border-style: solid;
+.btn-1 {
+  font-size: 15px;
 }
